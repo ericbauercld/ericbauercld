@@ -1,4 +1,4 @@
-# Hi, ich bin Eric 👋
+# Hi, ich bin Eric 
 
 Ich baue Apps und Web-Tools, die ein konkretes Alltagsproblem lösen: von iOS-Apps in Swift bis zu Web-Anwendungen mit Next.js und TypeScript.
 
